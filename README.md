@@ -16,6 +16,6 @@ You will need to combine all of the different skills your have learned today to 
 2.  Next, you'll need to adapt the Weasley invitation to fit your needs for a Flatiron Invitation.  Feel free to cut and paste from the other lab and then adapt it to your new lab.
 3.  Finally given how unpredictable user input can be, think about what string methods you can use to clean up and properly format the user input for your invitation.
 
-<iframe src="//giphy.com/embed/3oEduUGL2JaSK7oS76" width="480" height="548" frameBorder="0" style="max-width: 100%" class="giphy-embed" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+![graduation2](http://i.giphy.com/3oEduUGL2JaSK7oS76.gif)
 
 Good Luck!!!

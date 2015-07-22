@@ -1,6 +1,6 @@
 ###Flatiron Graduation Invitation
 
-<iframe src="//giphy.com/embed/qLHzYjlA2FW8g" width="480" height="209" frameBorder="0" style="max-width: 100%" class="giphy-embed" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+[graduation](http://i.giphy.com/qLHzYjlA2FW8g.gif)
 
 Now that you are a fabulous new student in the Flatiron Summer Program, it's not too early to start planning your gradutation!  Today, you're going to write your own invitation for your graduation, but not just yours, you are going to use the CLI to allow anybody in the class to build a graduation invitation!
 

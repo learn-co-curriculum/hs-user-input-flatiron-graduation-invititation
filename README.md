@@ -25,3 +25,5 @@ grad_invitation = "The family of insert_your_name proudly invite you to their gr
 ![graduation2](http://i.giphy.com/3oEduUGL2JaSK7oS76.gif)
 
 Good Luck!!!
+
+<a href='https://learn.co/lessons/hs-user-input-flatiron-graduation-invititation' data-visibility='hidden'>View this lesson on Learn.co</a>

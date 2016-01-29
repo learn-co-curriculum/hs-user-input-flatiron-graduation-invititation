@@ -26,4 +26,4 @@ grad_invitation = "The family of insert_your_name proudly invite you to their gr
 
 Good Luck!!!
 
-<a href='https://learn.co/lessons/hs-user-input-flatiron-graduation-invititation' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-user-input-flatiron-graduation-invititation' title='Flatiron Graduation Invitation'>Flatiron Graduation Invitation</a> on Learn.co and start learning to code for free.</p>
